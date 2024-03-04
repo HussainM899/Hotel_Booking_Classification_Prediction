@@ -1,4 +1,4 @@
-# Hotel Booking Prediction - KNN | SMOTE | DESCISION TREE
+# Hotel Booking Prediction - KNN | SMOTE | DECISION TREE
 
 ## Objective
 This case study aims to equip you with practical skills in data science, focusing on predicting customer behaviors and booking cancellations in the hotel industry. I've applied EDA, KNN, Decision Tree algorithms, and learn to handle class imbalances using SMOTE.
